@@ -1,0 +1,38 @@
+body {
+background-color: #262626;
+  font-family: 'OpenSans-Light';
+    font-size:36px;
+  color: #4169e1;
+    margin: 0;
+
+
+}
+
+.header {
+
+background-color: #262626;
+font-family: 'OpenSans-Light';
+font-size:36px;
+color: #ffffff;
+height: 90%;
+width: 100%;
+
+  
+  
+  }	
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src:url('OpenSans-Regular.ttf') format('truetype'); 
+  }
+
+@font-face {
+  font-family: 'OpenSans-Light';
+  src:url('OpenSans-Light.ttf') format('truetype'); 
+}
+
+@font-face {
+  font-family: 'OpenSans-LightItalic';
+  src:url('OpenSans-LightItalic.ttf') format('truetype');
+}
+
